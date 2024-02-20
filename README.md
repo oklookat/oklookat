@@ -10,8 +10,6 @@ Programming enthusiast.
 
 [oklookat@vk.com](mailto:oklookat@vk.com)
 
-[Telegram blog](https://t.me/oklookatt)
-
 ## Mirrors
 
 [GitHub](https://github.com/oklookat)
