@@ -9,11 +9,3 @@ Programming enthusiast.
 ## Contact
 
 [oklookat@vk.com](mailto:oklookat@vk.com)
-
-## Mirrors
-
-[GitHub](https://github.com/oklookat)
-
-[Codeberg](https://codeberg.org/oklookat)
-
-[Gitflic](https://gitflic.ru/user/oklookat)
