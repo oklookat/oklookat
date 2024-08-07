@@ -8,4 +8,4 @@ Programming enthusiast.
 
 ## Contact
 
-[oklookat@vk.com](mailto:oklookat@vk.com)
+[wisecompose@gmail.com](mailto:wisecompose@gmail.com)
